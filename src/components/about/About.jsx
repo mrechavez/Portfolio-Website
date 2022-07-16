@@ -22,8 +22,8 @@ const About = () => {
           <div className="about_cards">
             <article className='about_card'>
                 <BsController className='about_icon' />
-                <h5>Gamer</h5>
-                <small>Likes Video Games</small>
+                <h5>Foodie</h5>
+                <small>Likes Lobster Rolls</small>
             </article>
 
             <article className='about_card'>
@@ -40,9 +40,12 @@ const About = () => {
           </div>
 
           <p>
-            Write description here.
+            I graduated from Quinnipiac University after completing my Bachelor's of Health Science and eventually joined Codecademy where I learned the ins and outs of web development.
           </p>
-
+          <p>
+            As a frontend developer, I enjoy bridging the gap between writing code and engineering a design layout by combining my technical knowledge with my eye for design to produce a beautiful website. My objectives are to build applications that are accesible and scalable while providing engaging user experiences. 
+          </p>
+          
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
       </div>
