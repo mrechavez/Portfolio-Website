@@ -34,8 +34,8 @@ const About = () => {
 
             <article className='about_card'>
                 <FaDog className='about_icon' />
-                <h5>Dog Person</h5>
-                <small>Likes Dogs</small>
+                <h5>Doggie</h5>
+                <small>Loves Dogs</small>
             </article>
           </div>
 
